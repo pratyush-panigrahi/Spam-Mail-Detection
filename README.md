@@ -8,17 +8,26 @@ SPAM EMAIL DETECTION
 This project is a Machine Learning model that classifies emails as Spam or Not Spam (Ham) using different techniques. The notebook demonstrates data preprocessing, feature extraction, model training, and evaluation.
 
 
+
 🛠️ Features
 
  ->Data cleaning & preprocessing
+ 
  ->Text vectorization using  TF-IDF
+ 
  ->Model training with  Logistic Regression
+ 
  ->Accuracy evaluation
+ 
  ->Predicts whether a given email is Spam or Not Spam
+
 
  📚 Technologies Used
  
  ->Python 🐍
+ 
  ->Pandas, NumPy
+ 
  ->Scikit-learn
+ 
  ->Jupyter Notebook
